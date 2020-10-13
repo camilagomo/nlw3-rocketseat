@@ -13,10 +13,10 @@ Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocke
 
 #Tecnologias:
 <ul>
-  <li> - Nodejs </li>
-  <li> - HTML5 </li>
-  <li> - CSS </li>
-  <li> - Javascript </li>
+  <li> Nodejs </li>
+  <li> HTML5 </li>
+  <li> CSS </li>
+  <li> Javascript </li>
 </ul>
 
 
