@@ -11,7 +11,7 @@ Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocke
   <li> <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1" rel="nofollow"> Layout Mobile </a> </li>
 </ul>
 
-#Tecnologias:
+<h1> #Tecnologias: </h1>
 <ul>
   <li> Nodejs </li>
   <li> HTML5 </li>
