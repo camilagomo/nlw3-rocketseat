@@ -10,12 +10,14 @@ Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocke
   <li> <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1" rel="nofollow"> Layout Web </a> </li>
   <li> <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1" rel="nofollow"> Layout Mobile </a> </li>
 </ul>
-#Tecnologias:
-- Nodejs
-- HTML5
-- CSS
-- Javascript
 
+#Tecnologias:
+<ul>
+  <li> - Nodejs </li>
+  <li> - HTML5 </li>
+  <li> - CSS </li>
+  <li> - Javascript </li>
+</ul>
 
 
 
