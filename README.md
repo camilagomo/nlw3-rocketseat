@@ -1,17 +1,17 @@
 # Next Level Week - Rocketseat
 Construindo um projeto do zero com HTML, CSS, Javascript, Nodejs e React.
 
-# Sobre o Projeto:
+<h1> Sobre o Projeto: </h1>
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você.
 Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.
 
-# Layouts:
+<h1>Layouts: </h1>
 <ul>
   <li> <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1" rel="nofollow"> Layout Web </a> </li>
   <li> <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1" rel="nofollow"> Layout Mobile </a> </li>
 </ul>
 
-<h1> #Tecnologias: </h1>
+<h1> Tecnologias: </h1>
 <ul>
   <li> Nodejs </li>
   <li> HTML5 </li>
